@@ -1,0 +1,13 @@
+coverage
+node_modules/
+public
+npm-debug.log
+.DS_Store
+_site
+/.idea/
+.dccache
+/.vscode/
+cypress.env.json
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
